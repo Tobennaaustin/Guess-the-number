@@ -7,4 +7,4 @@ It is an HTML5 game
 ### Installation
 1. clone responsitory:
 ```bash
-git clone https://github.com/tobennaaustin/Guess the number.git
+git clone https://github.com/Tobennaaustin/Guess-the-number.git
